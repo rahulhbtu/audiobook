@@ -1,2 +1,2 @@
-# audiobook
-hi i have created a simple audiobook
+# Translator
+Hi i  have created a simple translator to translate languages.
